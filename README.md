@@ -1,0 +1,3 @@
+consegna:
+
+Fare uno script per sostituire caratteri e cancellare righe a caso da un set di file in un directory, e tutte le relative sottodirectory, filtrando solo per i file con delle determinate estensioni. I caratteri sono sostituiti con un altro carattere random, e le righe cancellate random in percentuale e specificando un numero minimo. Lo scopo è fornire dei codici sorgenti inutilizzabili, ma riconoscibili, almeno in parte.
